@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>307800118128-02mr4gc9ttqetfkman4di1q6r7457baf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.307800118128-02mr4gc9ttqetfkman4di1q6r7457baf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8LI9-b0Pb2A2XluIWjV7hMlqGMs03afM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>307800118128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.joboasia.fitlivenew</string>
+	<key>PROJECT_ID</key>
+	<string>get-fitlive</string>
+	<key>STORAGE_BUCKET</key>
+	<string>get-fitlive.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:307800118128:ios:2e5409607c032d2f1e75b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://get-fitlive.firebaseio.com</string>
+</dict>
+</plist>
